@@ -1,0 +1,20 @@
+{
+  "name": "pretty-json-file-formatter",
+  "version": "1.1.0",
+  "description": "A simple utility to format and beautify JSON files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mincy76/pretty-json-file-formatter"
+  },
+  "keywords": ["json", "formatter", "beautify", "pretty"],
+  "license": "MIT",
+  "dependencies": {
+    "json-beautify": "^1.0.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
